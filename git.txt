@@ -1,0 +1,7 @@
+echo "# Lat_Golang" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/aristony/Lat_Golang.git
+git push -u origin main
